@@ -1,9 +1,9 @@
 # Fruit Crumble
 
 For the topping:
- - 8oz flour
- - 4oz butter
- - 4oz sugar
+ - 200g flour
+ - 100g butter
+ - 100g sugar
 
 Put ingredients into a bowl and rub together with your fingers until crumbly.
 
