@@ -1,10 +1,10 @@
-###Ingredients
+### Ingredients
 125g/4oz butter or margarine, softened
 125g/4oz caster sugar
 2 medium eggs
 125g/4oz self raising flour
 
-###Method
+### Method
 1) Heat the oven to 180C/350F/Gas 4.
 2) Line two 18cm/7in cake tins with baking parchment
 3) Cream the butter and the sugar together until pale. Use an electric hand mixer if you have one.
